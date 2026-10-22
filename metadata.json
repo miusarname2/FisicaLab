@@ -1,0 +1,6 @@
+{
+  "name": "FísicaLab - Dinámica & Cinemática Interactiva 2D / 3D",
+  "description": "Simulador interactivo 2D y 3D de cinemática y dinámica (MRUV): calcula y visualiza aceleración, velocidad, fuerza y vectores con gráficos D3.js en tiempo real y carro interactivo arrastrable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
